@@ -36,7 +36,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is a web project to give access to great sports news 
 author: Shashank P, Vinith S
 email: contact@vinith.site
-avatar: assets/images/avatar.jpg
+avatar: assets/images/gold-medal.svg
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "/jekyll-theme-prologue" # the subpath of your site, e.g. /blog
