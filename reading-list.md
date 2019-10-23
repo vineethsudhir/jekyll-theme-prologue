@@ -31,7 +31,7 @@ order: 3
       <div class="item">
         <a href="#" class="image fit"><img src="{{ 'assets/rankings/test batsmen.PNG' | relative_url }}" alt="Natoque Vitae" /></a>
         <header>
-          <h3>Cricket Test Batsmen/h3>
+          <h3>Cricket Test Batsmen </h3>
         </header>
       </div>
     </div>
