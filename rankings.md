@@ -2,7 +2,7 @@
 title: Rankings
 subtitle: Ranks of top athletes and teams
 layout: "page"
-icon: fa-bar-chart
+icon: fas fa-trophy
 order: 3
 ---
 
