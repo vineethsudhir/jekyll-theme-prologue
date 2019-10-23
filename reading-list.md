@@ -37,7 +37,7 @@ order: 3
     </div>
     <div class="4u 12u$(mobile)">
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/rankings/test bowlers .PNG' | relative_url }}" alt="Dolor Penatibus" /></a>
+        <a href="#" class="image fit"><img src="{{ 'assets/rankings/test bowlers.PNG' | relative_url }}" alt="Dolor Penatibus" /></a>
         <header>
           <h3>Cricket Test Bowler Rankings</h3>
         </header>
