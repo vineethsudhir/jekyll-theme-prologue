@@ -45,7 +45,7 @@ order: 3
       <div class="item">
         <a href="#" class="image fit"><img src="{{ 'assets/rankings/odi batsmen.PNG' | relative_url }}" alt="Orci Convallis" /></a>
         <header>
-          <h3>Cricket ODI Batsmen</h3>
+          <h3>Cricket ODI Batsmen </h3>
         </header>
       </div>
     </div>
