@@ -48,7 +48,9 @@ order: 3
           <h3>Cricket ODI Batsmen</h3>
         </header>
       </div>
-     <div class="item">
+     </div>
+      <div class="4u 12u$(mobile)">
+       <div class="item">
         <a href="#" class="image fit"><img src="{{ 'assets/rankings/odi bowlers.PNG' | relative_url }}" alt="Orci Convallis" /></a>
         <header>
           <h3>Cricket ODI Bowlers</h3>
@@ -60,6 +62,8 @@ order: 3
           <h3>Cricket T20 Batsmen</h3>
         </header>
       </div>
+     </div>
+    <div class="4u 12u$(mobile)">
      <div class="item">
         <a href="#" class="image fit"><img src="{{ 'assets/rankings/t20 bowlers.PNG' | relative_url }}" alt="Orci Convallis" /></a>
         <header>
@@ -72,6 +76,8 @@ order: 3
           <h3>Tennis</h3>
         </header>
       </div>
+     </div>
+    <div class="4u 12u$(mobile)">
      <div class="item">
         <a href="#" class="image fit"><img src="{{ 'assets/rankings/fifa rankings.png' | relative_url }}" alt="Orci Convallis" /></a>
         <header>
