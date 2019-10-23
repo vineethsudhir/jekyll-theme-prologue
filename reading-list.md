@@ -85,7 +85,7 @@ order: 3
         </header>
      </div>
      <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/rankings/fiba rankings.PNG' | relative_url }}" alt="Orci Convallis" /></a>
+        <a href="#" class="image fit"><img src="{{ 'assets/rankings/fiba ranking.PNG' | relative_url }}" alt="Orci Convallis" /></a>
         <header>
           <h3>BasketBall</h3>
         </header>
