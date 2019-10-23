@@ -7,7 +7,6 @@ order: 3
 ---
 
  <div class="row">
-    <div class="4u 12u$(mobile)">
       <div class="item">
         <a href="#" class="image fit"><img src="{{ 'assets/rankings/cricket test ranking.PNG' | relative_url }}" alt="Rankings" /></a>
         <header>
@@ -20,7 +19,6 @@ order: 3
           <h3>Cricket ODI Team </h3>
         </header>
       </div>
-    </div>
     <div class="4u 12u$(mobile)">
       <div class="item">
         <a href="#" class="image fit"><img src="{{ 'assets/rankings/cricket t20 ranking.PNG' | relative_url }}" alt="Rhoncus Semper" /></a>
