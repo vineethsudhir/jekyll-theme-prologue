@@ -1,22 +1,52 @@
 ---
-title: Reading List
-subtitle: a list of books I read
+title: Rankings
+subtitle: Ranks of top athletes and teams
 layout: "page"
-icon: fa-book
+icon: fa-bar-chart
 order: 3
 ---
 
-I love books! Here are some I'm reading now:
-
-1. Robert Burton: *The Anatomy of Melancholy*
-2. Robert Musil: *The Man Without Qualities*
-3. Kazuo Ishiguro: *The Unconsoled*
-4. Malcolm Lowry: *Under the Volcano*
-5. Virginia Woolf: *The Waves*
-6. James Joyce: *Finnegans Wake*
-7. Thomas Wolfe: *Look Homeward, Angel*
-8. William Thackeray: *Pendennis*
-9. Karl Marx: *Capital*
-10. James Woodforde: *The Diary of A Country Parson*
-
-source: [The Guardian](https://www.theguardian.com/books/booksblog/2011/jan/04/best-boring-books)
+ <div class="row">
+    <div class="4u 12u$(mobile)">
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/rankings/cricket test ranking.png' | relative_url }}" alt="Rankings" /></a>
+        <header>
+          <h3>Cricket Test Team Rankings</h3>
+        </header>
+      </div>
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/rankings/cricket odi ranking.png' | relative_url }}" alt="Magna Nullam" /></a>
+        <header>
+          <h3>Cricket ODI Team Rankings</h3>
+        </header>
+      </div>
+    </div>
+    <div class="4u 12u$(mobile)">
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/rankings/cricket t20 ranking.png' | relative_url }}" alt="Rhoncus Semper" /></a>
+        <header>
+          <h3>Cricket T20 Team Rankings</h3>
+        </header>
+      </div>
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/rankings/test batsmen.png' | relative_url }}" alt="Natoque Vitae" /></a>
+        <header>
+          <h3>Cricket Test Batsmen Rankings</h3>
+        </header>
+      </div>
+    </div>
+    <div class="4u 12u$(mobile)">
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/rankings/test bowlers .png' | relative_url }}" alt="Dolor Penatibus" /></a>
+        <header>
+          <h3>Cricket Test Bowler Rankings</h3>
+        </header>
+      </div>
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/rankings/odi batsmen.png' | relative_url }}" alt="Orci Convallis" /></a>
+        <header>
+          <h3>Cricket ODI Batsmen Rankings</h3>
+        </header>
+      </div>
+    </div>
+  </div>
