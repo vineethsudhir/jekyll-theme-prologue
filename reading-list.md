@@ -77,7 +77,6 @@ order: 3
         </header>
      </div>
     </div>
-    <div class="4u 12u$(mobile)">
      <div class="item">
         <a href="#" class="image fit"><img src="{{ 'assets/rankings/fifa rankings.png' | relative_url }}" alt="Orci Convallis" /></a>
         <header>
@@ -90,5 +89,4 @@ order: 3
           <h3>BasketBall</h3>
         </header>
      </div>
-    </div>
   </div>
