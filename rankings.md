@@ -3,7 +3,7 @@ title: Rankings
 subtitle: Ranks of top athletes and teams
 layout: "page"
 icon: fa-trophy
-order: 4
+order: 3
 ---
 
  <div class="row">
