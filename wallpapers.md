@@ -9,21 +9,21 @@ order: 5
  <div class="row">
  
       <div class="item">
-        <img class="image fit" src="{{ 'assets/Wallpaper/aq1.jpg' | relative_url }}" alt="swimming wallpaper" />
+        <a href = "#" class = "image fit"><img class="image fit" src="{{ 'assets/Wallpaper/aq1.jpg' | relative_url }}" alt="swimming wallpaper" /></a>
       </div>
       
       
       <div class="item">
-        <img src="{{ 'assets/Wallpaper/aq2.jpg' | relative_url }}" alt="swimming wallpaper" />
+        <a href = "#" class = "image fit"><img src="{{ 'assets/Wallpaper/aq2.jpg' | relative_url }}" alt="swimming wallpaper" /></a>
       </div>
       
       
       <div class="item">
-        <img src="{{ 'assets/Wallpaper/aq3.jpg' | relative_url }}" alt="swimming wallpaper" />
+        <a href = "#" class = "image fit"><img src="{{ 'assets/Wallpaper/aq3.jpg' | relative_url }}" alt="swimming wallpaper" /></a>
       </div>
       
       <div class="item">
-        <img src="{{ 'assets/Wallpaper/at1.jpg' | relative_url }}" alt="athletics wallpaper" />
+        <a href = "#" class = "image fit"><img src="{{ 'assets/Wallpaper/at1.jpg' | relative_url }}" alt="athletics wallpaper" /></a>
       </div>
       
       <div class="item">
