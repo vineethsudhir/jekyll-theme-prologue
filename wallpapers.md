@@ -9,7 +9,7 @@ order: 5
  <div class="row">
  
       <div class="item">
-        <img src="{{ 'assets/Wallpaper/aq1.jpg' | relative_url }}" alt="swimming wallpaper" />
+        <img class="image fit" src="{{ 'assets/Wallpaper/aq1.jpg' | relative_url }}" alt="swimming wallpaper" />
       </div>
       
       
