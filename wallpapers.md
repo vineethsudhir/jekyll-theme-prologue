@@ -1,9 +1,9 @@
 ---
-title: Wallpapers
-subtitle: Some goodies for you
+title: Rankings
+subtitle: Ranks of top athletes and teams
 layout: "page"
-icon: fa-image
-order: 4
+icon: fa-trophy
+order: 5
 ---
 
  <div class="row">
