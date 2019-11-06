@@ -2,7 +2,7 @@
 title: Wallpapers
 subtitle: Here are some goodies for you
 layout: "page"
-icon: fa-photo
+icon: fa-picture-o
 order: 5
 ---
 
