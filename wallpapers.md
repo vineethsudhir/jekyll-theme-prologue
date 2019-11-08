@@ -1,83 +1,90 @@
 ---
-title: Rankings
-subtitle: Ranks of top athletes and teams
+title: Wallpapers
+subtitle: Here are some goodies for you
 layout: "page"
-icon: fa-trophy
+icon: fa-laptop
 order: 5
 ---
 
  <div class="row">
+ 
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/rankings/cricket test ranking.PNG' | relative_url }}" alt="Rankings" /></a>
-        <header>
-          <h3>Cricket Test Team </h3>
-        </header>
+        <img class="image fit" src="{{ 'assets/Wallpaper/aq1.jpg' | relative_url }}" alt="swimming wallpaper" />
       </div>
+      
+      
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/rankings/cricket odi ranking.png' | relative_url }}" alt="Magna Nullam" /></a>
-        <header>
-          <h3>Cricket ODI Team </h3>
-        </header>
+        <img class="image fit" src="{{ 'assets/Wallpaper/aq2.jpg' | relative_url }}" alt="swimming wallpaper" />
       </div>
+      
+      
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/rankings/cricket t20 ranking.PNG' | relative_url }}" alt="Rhoncus Semper" /></a>
-        <header>
-          <h3>Cricket T20 Team </h3>
-        </header>
+        <img class="image fit" src="{{ 'assets/Wallpaper/aq3.jpg' | relative_url }}" alt="swimming wallpaper" />
       </div>
+      
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/rankings/test batsmen.PNG' | relative_url }}" alt="Natoque Vitae" /></a>
-        <header>
-          <h3>Cricket Test Batsmen </h3>
-        </header>
+        <img class="image fit" src="{{ 'assets/Wallpaper/at1.jpg' | relative_url }}" alt="athletics wallpaper" />
       </div>
+      
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/rankings/test bowlers.PNG' | relative_url }}" alt="Dolor Penatibus" /></a>
-        <header>
-          <h3>Cricket Test Bowler </h3>
-        </header>
+        <img class="image fit" src="{{ 'assets/Wallpaper/at2.jpg' | relative_url }}" alt="athletics wallpaper" />
       </div>
+      
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/rankings/odi batsmen.PNG' | relative_url }}" alt="Orci Convallis" /></a>
-        <header>
-          <h3>Cricket ODI Batsmen </h3>
-        </header>
+        <img class="image fit" src="{{ 'assets/Wallpaper/at3.jpg' | relative_url }}" alt="athletics wallpaper" />
       </div>
+      
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/rankings/odi bowlers.PNG' | relative_url }}" alt="Orci Convallis" /></a>
-        <header>
-          <h3>Cricket ODI Bowlers</h3>
-        </header>
+        <img class="image fit" src="{{ 'assets/Wallpaper/at4.jpg' | relative_url }}" alt="athletics wallpaper" />
       </div>
+      
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/rankings/t20 batsmen.PNG' | relative_url }}" alt="Orci Convallis" /></a>
-        <header>
-          <h3>Cricket T20 Batsmen</h3>
-        </header>
+        <img class="image fit" src="{{ 'assets/Wallpaper/at5.jpg' | relative_url }}" alt="athletics wallpaper" />
       </div>
+      
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/rankings/t20 bowlers.PNG' | relative_url }}" alt="Orci Convallis" /></a>
-        <header>
-          <h3>Cricket ODI Batsmen</h3>
-        </header>
+        <img class="image fit" src="{{ 'assets/Wallpaper/at6.jpg' | relative_url }}" alt="athletics wallpaper" />
       </div>
+      
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/rankings/tennis ranking.png' | relative_url }}" alt="Orci Convallis" /></a>
-        <header>
-          <h3>Tennis</h3>
-        </header>
+        <img class="image fit" src="{{ 'assets/Wallpaper/at7.jpg' | relative_url }}" alt="athletics wallpaper" />
       </div>
+      
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/rankings/fifa rankings.png' | relative_url }}" alt="Orci Convallis" /></a>
-        <header>
-          <h3>Football</h3>
-        </header>
+        <img class="image fit" src="{{ 'assets/Wallpaper/at8.jpg' | relative_url }}" alt="athletics wallpaper" />
       </div>
+      
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/rankings/fiba ranking.PNG' | relative_url }}" alt="Orci Convallis" /></a>
-        <header>
-          <h3>BasketBall</h3>
-        </header>
-     </div>
+        <img class="image fit" src="{{ 'assets/Wallpaper/bb1.jpg' | relative_url }}" alt="basketball wallpaper" />
+      </div>
+      
+      <div class="item">
+        <img class="image fit" src="{{ 'assets/Wallpaper/bb2.jpg' | relative_url }}" alt="basketball wallpaper" />
+      </div>
+      
+      <div class="item">
+        <img class="image fit" src="{{ 'assets/Wallpaper/cr1.jpg' | relative_url }}" alt="cricket wallpaper" />
+      </div>
+      
+       <div class="item">
+        <img class="image fit" src="{{ 'assets/Wallpaper/cr2.jpg' | relative_url }}" alt="cricket wallpaper" />
+      </div>
+      
+       <div class="item">
+        <img class="image fit" src="{{ 'assets/Wallpaper/fb1.jpg' | relative_url }}" alt="football wallpaper" />
+      </div>
+      
+      <div class="item">
+        <img class="image fit" src="{{ 'assets/Wallpaper/fb2.jpg' | relative_url }}" alt="football wallpaper" />
+      </div>
+      
+      <div class="item">
+        <img class="image fit" src="{{ 'assets/Wallpaper/lt1.jpg' | relative_url }}" alt="tennis wallpaper" />
+      </div>
+      
+      <div class="item">
+        <img class="image fit" src="{{ 'assets/Wallpaper/lt2.jpg' | relative_url }}" alt="tennis wallpaper" />
+      </div>
+      
  </div>
   
